@@ -116,6 +116,7 @@ plt.show()
 
 **Training Loss, Validation Loss Vs Iteration Plot:**
 
+
 <img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/64117728-eaf1-42c2-8e13-556b0a140027" />
 
 
@@ -123,9 +124,11 @@ plt.show()
 
 **Original vs Noisy Vs Reconstructed Image**
 
+
 <img width="1529" height="328" alt="image" src="https://github.com/user-attachments/assets/db3f3465-66a9-47d9-a01f-14f78302cbde" />
 
 
 ## **RESULT**
+
 
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
